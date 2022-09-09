@@ -1,0 +1,10 @@
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\bin\Debug\Waste Management Application Software.exe.config
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\bin\Debug\Waste Management Application Software.exe
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\bin\Debug\Waste Management Application Software.pdb
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\bin\Debug\Waste Management Application Software.xml
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\obj\Debug\Waste_Management_Application_Software.Dashboard.resources
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\obj\Debug\Waste_Management_Application_Software.Resources.resources
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\obj\Debug\Waste Management Application Software.vbproj.GenerateResource.Cache
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\obj\Debug\Waste Management Application Software.exe
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\obj\Debug\Waste Management Application Software.xml
+c:\users\sergio van aardt\documents\visual studio 2012\Projects\Waste Management Application Software\Waste Management Application Software\obj\Debug\Waste Management Application Software.pdb
